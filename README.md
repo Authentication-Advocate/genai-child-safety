@@ -1,7 +1,7 @@
 # GenAI Child Safety
 
 ## Context
-Machine Learning (ML) and Generative Artificial Intelligence (GenAI) has arrived, and will continue to develop. While the most cutting edge capabilities reside in the proprietary sphere of private companies, open source versions of the same capabilities exist. We cannot stop the evolution of these technologies without infringing freedom of speech; they're here to stay and will continue to improve. 
+Machine Learning (ML) and Generative Artificial Intelligence (GenAI) has arrived, and will continue to develop. While the most cutting edge capabilities reside in the proprietary sphere of private companies, [open source versions of the same capabilities exist](https://huggingface.co/). We cannot [stop the evolution of these technologies without infringing freedom of speech](https://www.eff.org/press/archives/2003/08/25); they're here to stay and will continue to improve. 
 
 This content seeks to provide actionable recommendations for the protection of children in this new world, considering several risks. The intended audience is parents, and the intended outcome is an understanding of potential risks and things you can do to manage those risks.
 
@@ -12,9 +12,11 @@ This content seeks to provide actionable recommendations for the protection of c
 This guide is intended for "normal people"; not companies, celebrities, or governments.
 If you believe any of:
 * A bad actor may specifically target YOU or your family, as opposed to being a target of opportunity / victim of chance
-* A credible threat of a bad actor physically accessing a person or device
+* A bad actor may physically approach you, your family, or your posessions
 
 Then you are beyond the security considerations of this guide and should seek additional guidance from cybersecurity professionals.
+
+The vast majority of cybercrime occurs remotely.
 
 ## Risks
 ### Impersonation of a family member
