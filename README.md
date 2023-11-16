@@ -44,7 +44,7 @@ It is only possible to impersonate a person's voice with sufficient recordings o
 
 
 ## Authentication Approaches
-These are ways to authenticate someone you are communicating with. [Given the limited applicability of this guide](#limits-of-this-guide), these approaches may be significantly below the bar necessary to provide reasonable assurance for such entities, but are intended to be reasonable and appropriate advice for people unlikely to be targeted by a sophisticated adversary. These are intended to counter the evolution of threats like [tech support scams](https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams).
+These are ways to authenticate someone you are communicating with. [Given the limited applicability of this guide](#limits-of-this-guide) these approaches may be significantly below the bar necessary to provide reasonable assurance for all situations, but are intended to be reasonable and appropriate advice for people unlikely to be targeted by a sophisticated adversary. These are intended to counter the evolution of threats like [tech support scams](https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams).
 
 ### Both people have access to text messaging (SMS/MMS)
 * Send text messages back-and-forth with a phone number YOU ALREADY KNOW IS ASSOCIATED with the person to confirm whatever is being requested
